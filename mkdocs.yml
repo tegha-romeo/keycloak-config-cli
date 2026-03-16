@@ -44,8 +44,8 @@ nav:
   - Home:
       - Getting Started: index.md
       - Supported Features: supported-features.md
-      - Import settings: import-settings.md
       - managed-resources: managed-resource.md
+      - Import settings: import-settings.md
       - Redhat-sso compatibility: RedHat-SSO-compatibility.md
       - Helm Chart: helm-chart.md
   - Use Cases:
